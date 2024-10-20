@@ -13,7 +13,7 @@
 |UART|USB2UART cable, PC terminal| test ok| 10/26
 |Timer||
 |I2C|zynqboad RTC (확인요)||
-|SPI|| test ok|10/26
+|SPI|4-digit FND| test ok|10/26
 
 - I2C, SPI의 경우 slave 장치를 만드는 것도 포함할 경우 이건 Cortex-M보드에 전선으로 연결하여 동작 실험
     - 기본 신호 검증은 logic analyzer로 진행 예정
